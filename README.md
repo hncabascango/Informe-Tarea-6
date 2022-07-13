@@ -1,19 +1,68 @@
 # Informe-Tarea-6
 2. Calcule el periodo de cada uno de los siguientes valores de frecuencia:
 
+(a)	1 Hz
+
+![image](https://user-images.githubusercontent.com/105606339/178828841-aa81de7b-a4b8-46e9-96ec-d350867c9fce.png)
+
+(b)	60 Hz
+
+![image](https://user-images.githubusercontent.com/105606339/178828888-62fbd5b5-d9c3-459c-ad76-a05f7f118661.png)
+
+(c)	500 Hz
+
+![image](https://user-images.githubusercontent.com/105606339/178828925-30eeb394-2f79-49f7-aba0-f57d3707abe2.png)
+
+(d)	1 kHz
+
+![image](https://user-images.githubusercontent.com/105606339/178828967-5cbd68b0-2d9e-4adc-a013-7fa083b4a7c6.png)
+
+(e)	200 kHz
+
+![image](https://user-images.githubusercontent.com/105606339/178829003-de596c27-d486-4313-b3df-247a247eaf2a.png)
+
 4. Una onda seno tiene frecuencia de 50 kHz. ¿Cuántos ciclos completa en 10 ms?
+
+![image](https://user-images.githubusercontent.com/105606339/178838790-c1d4498f-1ffa-40fd-8845-ce99fa6ad6f6.png)
 
 6. Cierto generador de cuatro polos gira a 3600 rpm. ¿Cuál es la frecuencia del voltaje que produce?
 
+![image](https://user-images.githubusercontent.com/105606339/178839951-535d50a1-52db-4c89-b7ce-21d251cde2ae.png)
+
 8. El valor pico de una onda seno es de 12 V. Determine los siguientes valores:
 
+(a) rms
+
+![image](https://user-images.githubusercontent.com/105606339/178841118-74856d0a-4154-4705-81fd-35fcbb93c74f.png)
+
+(b) pico a pico
+
+![image](https://user-images.githubusercontent.com/105606339/178841191-158721fe-8a07-4a3e-bddd-3ad827353bc8.png)
+
+(c) promedio
+
+![image](https://user-images.githubusercontent.com/105606339/178841214-13ba3eb9-7ff7-436c-875a-8822253881d9.png)
 
 10. Para la onda seno de la figura 11-77, determine los valores pico, pico a pico, rms y promedio.
 
 ![image](https://user-images.githubusercontent.com/105606339/178163390-881a8576-bca4-458c-9a3a-7f2dbd6165a6.png)
 
+![image](https://user-images.githubusercontent.com/105606339/178841844-8d5008e1-5ec6-489a-8386-0832bd1576d9.png)
+
+![image](https://user-images.githubusercontent.com/105606339/178841859-7346a6c5-efb5-4ffc-aa4a-12aa3fe5ccd4.png)
+
+![image](https://user-images.githubusercontent.com/105606339/178841885-252da15c-7094-4d51-8779-1aad70bf7ef0.png)
+
+![image](https://user-images.githubusercontent.com/105606339/178841915-29e8b07a-9abe-4145-8f4b-a6ae613b0b98.png)
 
 12. Cambie los siguientes valores angulares de radianes a grados:
+
+(a) rad
+
+
+
+
+
 
 
 14. Una onda seno tiene un pico positivo en 75° y otro con un pico positivo en 100°. ¿Cuánto se desfasa cada onda seno con respecto a la referencia de 0°? ¿Cuál es el ángulo de fase entre estas ondas?
