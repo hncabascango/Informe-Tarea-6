@@ -57,21 +57,71 @@
 
 12. Cambie los siguientes valores angulares de radianes a grados:
 
-(a) rad
+![image](https://user-images.githubusercontent.com/105606339/178852522-17f917c5-262c-4d95-9e6f-aa658df4454c.png)
 
+![image](https://user-images.githubusercontent.com/105606339/178852620-70c36928-6252-4ff9-8682-1faad490fd0b.png)
 
+![image](https://user-images.githubusercontent.com/105606339/178852542-09dac5ea-d069-4444-a4d5-231977ea8193.png)
 
+![image](https://user-images.githubusercontent.com/105606339/178852643-b0c74f38-9aa4-4483-8a6b-a1ab03b647dc.png)
 
+![image](https://user-images.githubusercontent.com/105606339/178852553-ff968452-9a8d-4ec0-aa33-9f447819cc7f.png)
 
+![image](https://user-images.githubusercontent.com/105606339/178852656-f2a5e65e-b292-4e26-b0c5-1e16f284e78b.png)
 
+![image](https://user-images.githubusercontent.com/105606339/178852568-338e3e10-90b8-4fd5-88bf-e8c714a803be.png)
+
+![image](https://user-images.githubusercontent.com/105606339/178852672-38dcb847-d10f-4be9-957c-ec3f9ff475cf.png)
+
+![image](https://user-images.githubusercontent.com/105606339/178852579-e86639d0-f344-4408-9a98-fed297a7f5fb.png)
+
+![image](https://user-images.githubusercontent.com/105606339/178852693-075a41fd-4f19-474e-ab0e-497c1c0a024e.png)
+
+![image](https://user-images.githubusercontent.com/105606339/178852594-10c7b07f-017c-430f-8f5d-21f7c1aaad11.png)
+
+![image](https://user-images.githubusercontent.com/105606339/178852700-87df39f8-d2a3-439a-b06d-d677021c6baa.png)
 
 14. Una onda seno tiene un pico positivo en 75° y otro con un pico positivo en 100°. ¿Cuánto se desfasa cada onda seno con respecto a la referencia de 0°? ¿Cuál es el ángulo de fase entre estas ondas?
 
 
 16. Cierta onda seno tiene un cruce por cero hacia positivo en 0° y valor rms de 20 V. Calcule su valor instantáneo en cada uno de los siguientes ángulos
 
+(a) 15°
+
+![image](https://user-images.githubusercontent.com/105606339/178855935-fa1fc893-bb1b-4db6-b44e-b7ed08b02ecc.png)
+
+(b) 33°
+
+![image](https://user-images.githubusercontent.com/105606339/178855948-ec91ffca-7efd-47fa-96a3-17c3fb1a3b83.png)
+
+(c) 50°
+
+![image](https://user-images.githubusercontent.com/105606339/178855959-fe346789-4c3f-43ea-91d2-b3800e3223d5.png)
+
+(d) 110°
+
+![image](https://user-images.githubusercontent.com/105606339/178855973-c7a2a84c-ae19-4afe-87fd-a7d27d8770a1.png)
+
+(e) 70°
+
+![image](https://user-images.githubusercontent.com/105606339/178855988-53a0a4d0-b3ff-4bba-b795-9306a563c3b5.png)
+
+(f) 145°
+
+![image](https://user-images.githubusercontent.com/105606339/178856005-dbd7c697-cc96-4323-9e9f-48ce97fa9ac7.png)
+
+(g) 250°
+
+![image](https://user-images.githubusercontent.com/105606339/178856015-1e8bf7bc-4d94-4a2f-8627-37a9d423416f.png)
+
+(h) 325°
+
+![image](https://user-images.githubusercontent.com/105606339/178856020-8e66554b-26f0-4337-8c4e-1ac06a8ea95b.png)
 
 18. Para una onda seno referida a 0° con valor rms de 6.37 V, determine el valor instantáneo en cada uno de los puntos siguientes:
+
+
+
 
 
 20. Repita el problema 19 para el caso en que la onda seno A va 30° delante de la onda seno B. 
