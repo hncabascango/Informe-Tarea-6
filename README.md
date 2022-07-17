@@ -1,4 +1,33 @@
-# Informe-Tarea-6
+# INFORME TAREA 6 
+
+## OBJETIVOS
+
+### Objetivo General
+
+Analizar una forma de onda sinusoidal, cómo estas se generan  y cada una de sus características logrando determinar los diversos valores de voltaje y corriente 
+
+### Objetivos Específicos
+
+- Determinar los voltajes totales que tienen los componentes de corriente alterna (ca) como lo de corriente directa (cd).
+
+- Describir las relaciones angulares de una onda seo, habiendo identificando antes sus características.
+
+- Comprender la construcción y las características básicas de un capacitor.
+
+## MARCO TEÓRICO
+
+### Capítulo 11
+
+![Diagrama en blanco (9)](https://user-images.githubusercontent.com/105606339/179381031-d2dd7518-4026-41bc-bb78-2984d6a8c0c3.png)
+
+### Capítulo 12
+
+![Diagrama en blanco (28)](https://user-images.githubusercontent.com/105606339/179381017-ce7c1a2c-fa7c-4d68-aeb9-0b257880b5e2.png)
+
+## EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+
+### Capítulo 11
+
 2. Calcule el periodo de cada uno de los siguientes valores de frecuencia:
 
 (a)	1 Hz
@@ -120,11 +149,64 @@
 
 18. Para una onda seno referida a 0° con valor rms de 6.37 V, determine el valor instantáneo en cada uno de los puntos siguientes:
 
+![image](https://user-images.githubusercontent.com/105606339/179379234-11662afd-c863-4ae0-a484-aa50882b81f9.png)
 
+(a)
 
+![image](https://user-images.githubusercontent.com/105606339/179379243-e54b9146-c6c1-4916-b927-b2a958a4a88e.png)
 
+(b)
+
+![image](https://user-images.githubusercontent.com/105606339/179379254-082cf7a2-488e-4ee0-8727-ad04081ac3ac.png)
+
+(c)
+
+![image](https://user-images.githubusercontent.com/105606339/179379257-c093968e-b513-4d47-84fd-70cbc13a1bbc.png)
+
+(d)
+
+![image](https://user-images.githubusercontent.com/105606339/179379263-7878789f-fbe3-472f-9abd-72f2ce6a1b38.png)
+
+(e)
+
+![image](https://user-images.githubusercontent.com/105606339/179379276-a245b733-34b1-4cb1-b24f-d404c7be6a03.png)
+
+(f)
+
+![image](https://user-images.githubusercontent.com/105606339/179379294-0c66f35e-1fd2-49c9-a61f-88b96463ec21.png)
+
+(g)
+
+![image](https://user-images.githubusercontent.com/105606339/179379298-c7d483a2-3a77-42ab-b110-b6c4d01d2b4b.png)
 
 20. Repita el problema 19 para el caso en que la onda seno A va 30° delante de la onda seno B. 
+
+![image](https://user-images.githubusercontent.com/105606339/179379317-a4a6bbd3-72ce-4947-aa3e-42d8dcd15de3.png)
+
+30°
+
+![image](https://user-images.githubusercontent.com/105606339/179379326-4eb83b9c-50ea-4067-8d70-f5afe35ef341.png)
+
+45°
+
+![image](https://user-images.githubusercontent.com/105606339/179379330-d5f66b99-1b55-462f-8496-a3c38ec7af33.png)
+
+90°
+
+![image](https://user-images.githubusercontent.com/105606339/179379333-9ab7719b-377c-4f78-875b-0fe4d8edb488.png)
+
+180°
+
+![image](https://user-images.githubusercontent.com/105606339/179379340-6474335c-210a-48b1-bb24-a7e7b706abb9.png)
+
+200°
+
+![image](https://user-images.githubusercontent.com/105606339/179379344-2ab03878-833a-460a-a2b0-c39498b5678a.png)
+
+300°
+
+![image](https://user-images.githubusercontent.com/105606339/179379355-26ebae7e-d356-4b30-968d-eae2cbffac79.png)
+
 22. Trace un diagrama fasorial para representar las ondas seno de la figura 11-78 con respecto a la referencia de 0°
 
 ![image](https://user-images.githubusercontent.com/105606339/178163440-3bca1cd5-8123-4460-a4c3-a0a43eb53b5e.png)
@@ -177,29 +259,31 @@
 ![image](https://user-images.githubusercontent.com/105606339/178163651-400ad3af-8525-46cf-acd3-fc8a3a1109e6.png)
 
 
-
-
-
-
-
-
+### Capítulo 12
 2. Transforme los siguientes valores de microfarads a picofarads:
 
+![image](https://user-images.githubusercontent.com/105606339/179375325-b58a2e5b-d676-4b61-90e0-63a5b635437c.png)
 
 4. Transforme los siguientes valores de farads a microfarads;
 
-
+![image](https://user-images.githubusercontent.com/105606339/179375375-05fbf44c-4774-4a5b-9d53-b470991fbd39.png)
 
 6. ¿Qué tamaño de capacitor es capaz de guardar 10 mJ de energía con 100 V entre sus placas?
 
+![image](https://user-images.githubusercontent.com/105606339/179375733-a885779f-7575-41df-a013-e3dc0aba5d7a.png)
+
+
 8. Un capacitor de mica tiene placas cuadradas de 3.8 cm por lado con una separación entre ellas de 2.5 mils.¿Cuál es la capacitancia?
+
+![image](https://user-images.githubusercontent.com/105606339/179376112-b2c3ba8a-fde2-4363-b5f3-fc6076665d1a.png)
+
 
 14. En la construcción de un capacitor de hojas de mica y laminillas apiladas, ¿cómo se incrementa el área de placas?
 
 
+
 16. Muestre cómo conectar un capacitor electrolítico de un lado a otro de R2 entre los puntos A y B en la figura 12-66.
 
-![image](https://user-images.githubusercontent.com/105606339/178163748-4a14511c-60eb-4ef2-bfbd-65c8c6c1e0d9.png)
 
 
 
@@ -215,10 +299,16 @@
 
 ![image](https://user-images.githubusercontent.com/105606339/178163775-670e4ada-6c99-4d5d-b58c-27d9914aa03d.png)
 
+![image](https://user-images.githubusercontent.com/105606339/179379372-4b9e7ddb-fa55-445d-bf9b-e8212172b899.png)
+
+
 ![image](https://user-images.githubusercontent.com/105606339/178163780-f9d1790c-eff1-41a9-8deb-c7e98f7a9e8c.png)
 
+![image](https://user-images.githubusercontent.com/105606339/179379378-56cdf930-ac8d-4252-ad05-1653413faf1f.png)
 
 ![image](https://user-images.githubusercontent.com/105606339/178163783-2d8e5432-69b1-4dc5-b622-7baf1ff3e99d.png)
+
+![image](https://user-images.githubusercontent.com/105606339/179379386-b95bcb83-deb6-48ea-97d3-b85a8b7d0c97.png)
 
 26. ¿Cuál es la carga en cada capacitor de la figura 12-71?
 
@@ -229,6 +319,14 @@
 ![image](https://user-images.githubusercontent.com/105606339/178163810-36c034e0-5b0e-4344-8b71-a236afd85eef.png)
 
 28. ¿Cuál es el voltaje entre los nodos A y B en cada circuito de la figura 12-72?
+
+![image](https://user-images.githubusercontent.com/105606339/179379201-023ff240-41c8-46b1-9f00-5a2bb90721fd.png)
+
+![image](https://user-images.githubusercontent.com/105606339/179379186-116fad45-3522-45d5-a2a0-770d3861bde0.png)
+
+![image](https://user-images.githubusercontent.com/105606339/179379190-51dbe241-ad56-4020-88ef-4862e89b353a.png)
+
+![image](https://user-images.githubusercontent.com/105606339/179379192-85e70696-d0ec-4c78-b870-56bad09c2ceb.png)
 
 30. Determine la constante de tiempo para cada una de las combinaciones en serie:
 
@@ -244,127 +342,20 @@
 
 ![image](https://user-images.githubusercontent.com/105606339/178163858-7d9d169e-1ef7-43ca-b3da-bdf637e1c1e5.png)
 
-38. ¿Cuánto tiempo requiere el capacitor C para descargarse a 3 V en la figura 12-75?
+![image](https://user-images.githubusercontent.com/105606339/179379176-a8a35356-bd23-48d3-ad74-bb4c0dacc5e5.png)
 
 
+## CONCLUSIONES
 
+- Se ha calculado el valor del voltaje presente en un ciruito al cual se ha aplicado un cd y ca independientemente.
 
+- Se ha visto y comprendido la medición de las ondas seno a lo largo del eje horizontal con base en el tiempo.
 
+- Un capacitor es un componente eléctrico que guarda energía eléctrica y tiene la propiedad de capacitancia.
 
+## BIBLIOGRAFÍA
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Floyd, TL (2007). Principios de circuitos electricos. México: EDUCACIÓN DE LA PERSONA.
 
 
 
